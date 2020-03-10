@@ -6,19 +6,19 @@ Contient le web service exposé. Il faut le run sur un port libre, ici configure
 
 Pour accéder au fichier wsdl généré : http://localhost:8888/hello?wsdl
 
-<bDemoWebSOAP :</b>
+<b>DemoWebSOAP :</b>
 
 Lancer le provider avant.
 
 Lancer la classe main, ouvrant une servlet et récupérant les informations envoyées par le provider
 
-<bDemoClientSOAP:</b>
+<b>DemoClientSOAP:</b>
 
 Lancer le provider avant.
 
 Lancer la classe main en console.
 
-<bDemoClientDavidSOAP:</b>
+<b>DemoClientDavidSOAP:</b>
 
 Se mettre sur le même réseau que la personne.
 
@@ -30,7 +30,7 @@ Dans le projet client:
 
 Run le client.
 
-<bDemoClientTeam:
+<b>DemoClientTeam:
 
 Récupérer le provider : http://objis.com/tutoriel-web-service-soap-types-complexes/
 
