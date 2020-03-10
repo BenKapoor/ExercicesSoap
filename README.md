@@ -30,7 +30,7 @@ Dans le projet client:
 
 Run le client.
 
-<b>DemoClientTeam:
+<b>DemoClientTeam:</b>
 
 Récupérer le provider : http://objis.com/tutoriel-web-service-soap-types-complexes/
 
